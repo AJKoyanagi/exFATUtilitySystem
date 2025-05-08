@@ -1,0 +1,52 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/workspaces/cse_3310_exFAT",
+            "binaryPath": "/workspaces/cse_3310_exFAT/mmap",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/workspaces/cse_3310_exFAT",
+            "binaryPath": "/workspaces/cse_3310_exFAT/munit_example",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/workspaces/cse_3310_exFAT",
+            "binaryPath": "/workspaces/cse_3310_exFAT/extfat",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/workspaces/cse3310_s004_group_15",
+            "binaryPath": "/workspaces/cse3310_s004_group_15/extfat",
+            "binaryArgs": []
+        }
+    ],
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.dimInactiveRegions": false,
+    "files.associations": {
+        "cmdargs.h": "c"
+    }
+=======
+<<<<<<< HEAD
+>>>>>>> main
+    "files.associations": {
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "stat.h": "c",
+        "extfat.h": "c",
+        "assert.h": "c"
+    }
+<<<<<<< HEAD
+=======
+=======
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.dimInactiveRegions": false
+>>>>>>> 98d95412ef1dab4e79f926fb15149c75a6d6ec05
+>>>>>>> b638c5c3f91e07993287fae6f7eec1a4c9f4725a
+>>>>>>> main
+}
